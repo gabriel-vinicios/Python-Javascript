@@ -186,7 +186,7 @@ python transpiler.py exemplo.py exemplo.js  # CLI
 
 ## 📊 Limitações Conhecidas
 
-### Não Implementado (por escolha educacional)
+### Não Implementado
 - ❌ Decoradores (`@decorator`)
 - ❌ Geradores (`yield`)
 - ❌ Context managers (`with`)
