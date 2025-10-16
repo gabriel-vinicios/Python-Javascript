@@ -674,7 +674,7 @@ A disponibilização como projeto open-source garante que esta contribuição co
 ---
 
 **Anexos disponíveis em repositório GitHub:**  
-[A ANEXAR]
+https://github.com/gabriel-vinicios/Python-Javascript
 
 *Universidade do Sul de Santa Catarina - UNISUL*  
 *Palhoça, SC - Outubro 2025*
