@@ -488,7 +488,7 @@ Testes realizados em computador com Python 3.11, medindo tempo de transpilação
 **Legibilidade:** 9/10 - JavaScript gerado é limpo e bem estruturado
 **Idiomaticidade:** 8/10 - Segue convenções JavaScript modernas
 **Funcionalidade:** 10/10 - Código gerado executa corretamente
-**Eficiência:** 7/10 - Sem otimizações avançadas (por design educacional)
+**Eficiência:** 7/10 - Sem otimizações avançadas (Motivo: design educacional)
 
 ### 4.4 Limitações Identificadas
 
