@@ -202,9 +202,7 @@ python transpiler.py exemplo.py exemplo.js  # CLI
 ## 🤝 Contribuição Acadêmica
 
 Este projeto foi desenvolvido por:
-- **Erick Vieira**
-- **Patrick Lohn**  
-- **Rafael Sonoki**
+- **Gabriel Vinicios**
 
 **Orientação**: Universidade do Sul de Santa Catarina (UNISUL)  
 **Disciplina**: Teoria da Computação e Compiladores  
