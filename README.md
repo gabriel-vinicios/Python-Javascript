@@ -208,10 +208,6 @@ Este projeto foi desenvolvido por:
 **Disciplina**: Teoria da Computação e Compiladores  
 **Data**: Outubro 2025
 
-## 📄 Licença
-
-MIT License - Veja [LICENSE](LICENSE) para detalhes.
-
 ## 🔗 Links Úteis
 
 - 📚 [Documentação Python AST](https://docs.python.org/3/library/ast.html)
