@@ -203,6 +203,8 @@ python transpiler.py exemplo.py exemplo.js  # CLI
 
 Este projeto foi desenvolvido por:
 - **Gabriel Vinicios**
+- **Artur Coimbra Martins Costa**
+- **Bernardo Penteado Fernandes**
 
 **Orientação**: Universidade do Sul de Santa Catarina (UNISUL)  
 **Disciplina**: Teoria da Computação e Compiladores  
